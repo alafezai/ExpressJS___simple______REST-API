@@ -22,12 +22,9 @@ $ cd nom_du_projet
 
 $ npm init -y
 
-# create migration
 $ Installer Express.js
-$ npm install -g express
 
-# revert migration
-$ yarn migration:revert
+$ npm install -g express
 ```
 
 ## Install Nodemon ▶
