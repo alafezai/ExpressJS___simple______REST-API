@@ -22,7 +22,7 @@ $ cd nom_du_projet
 
 $ npm init -y
 
-$ Installer Express.js
+#Install Express.js
 
 $ npm install -g express
 ```
