@@ -1,4 +1,4 @@
-## REST APIS crud operations with MVC Design Pattern with NodeJS Express and Mysql
+## REST APIS crud operations with NodeJS Express and Mysql
 
 ### Description
 - This is a simple REST API with CRUD operations using NodeJS Express and Mysql.
